@@ -1,0 +1,7 @@
+﻿  help.cpp
+  Main.cpp
+  正在生成代码...
+D:\work\2024WDKHxiti\第二章\014\Main.cpp(14,6): error C2374: “ans”: 重定义；多次初始化
+  D:\work\2024WDKHxiti\第二章\014\Main.cpp(13,6):
+  参见“ans”的声明
+  
